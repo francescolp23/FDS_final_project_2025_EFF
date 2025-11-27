@@ -1,5 +1,6 @@
 # FDS_final_project_2025_EFF
-FDS final project repository
+[FDS final project repository]
+The project was assigned by Professor Spinelli I. of the course Fundamentals of Data Science, Master Degree Data Science in Sapienza, Roma
 
 This project is based on a prediction with deep neural network models (Convolutional).
 
