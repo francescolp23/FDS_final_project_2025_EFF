@@ -5,7 +5,7 @@ https://colab.research.google.com/github/<USERNAME>/<REPO_NAME>/blob/main/<NOTEB
 )
 
 Repository for the final project of the course *Fundamentals of Data Science*  
-Master’s Degree in Data Science, Sapienza University of Rome (A.Y. 2024–2025).
+Master’s Degree in Data Science, Sapienza University of Rome.
 
 ## Project Overview
 
