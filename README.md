@@ -20,9 +20,7 @@ The dataset is derived from the publicly available PIDray benchmark:
   A shared Google Drive folder is available here:  
   https://drive.google.com/drive/folders/1zvMIc1bqteRN9Z36hHYpoTGoZArsh4mE
 
-Only a subset of the original data is used:
-- 6,000 SAFE images  
-- 4,000 PROHIBITED images  
+Only a subset of the original data is used, 10000 images.
 
 This split is intentionally slightly imbalanced to better reflect real-world distributions.
 
