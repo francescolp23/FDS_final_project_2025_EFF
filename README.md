@@ -22,7 +22,6 @@ The dataset is derived from the publicly available PIDray benchmark:
 
 Only a subset of the original data is used, 10000 images.
 
-This split is intentionally slightly imbalanced to better reflect real-world distributions.
 
 ## Literature Reference
 
